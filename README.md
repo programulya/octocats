@@ -1,6 +1,6 @@
 #Octocats
 
-Congrats for JS Cats (23th of February).
+Congrats for JS Cats (on 23rd February).
 
 Libs and plugins:
 
