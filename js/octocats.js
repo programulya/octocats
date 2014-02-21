@@ -12,7 +12,7 @@
 
         $("[data-jcarousel]").jcarouselAutoscroll({
             target: "+=1",
-            interval: 1000
+            interval: 1200
         });
     });
 })(jQuery);
